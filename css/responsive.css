@@ -26,10 +26,9 @@
     }
     #list li {
         overflow: hidden;
+        text-align: center;
     }
-    #list li img {
-        max-width: 100%;
-    }
+    
     #list li figure:nth-of-type(2) img{
         max-width: 100%;
     }
